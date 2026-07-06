@@ -221,8 +221,8 @@ cd ERASM1
 Configure the database in `application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/erasm
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+spring.datasource.username=root
+spring.datasource.password=nithesh
 ```
 
 Build the project:

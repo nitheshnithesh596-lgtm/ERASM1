@@ -262,7 +262,7 @@ The API will start on `http://localhost:8080`.
 
 ## Author
 
-Nithesh
+Nithesh J
 
 ## License
 
